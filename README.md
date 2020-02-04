@@ -17,6 +17,9 @@ A list of useful resources for nuclear physics.
 	* [Charts](#charts)
 	* [Tables](#tables)
 	* [DAQ documentation](#daq-documentation)
+* [Books](#books)
+	* [Nuclear structure](#nuclear-structure)
+	* [Nuclear reactions](#nuclear-reactions)
 * [Misc.](#misc)
 
 
@@ -54,7 +57,6 @@ A list of useful resources for nuclear physics.
  * [ROOT](https://root.cern) - A large package for nuclear and particle physics
 
 ## Various tools
- * []
 
 # Websites
 
@@ -65,7 +67,6 @@ A list of useful resources for nuclear physics.
 
  * [NuDat](https://www.nndc.bnl.gov/nudat2/) - An interactive chart of nuclides from NNDC
  * [Live Chart of Nuclides](https://www-nds.iaea.org/relnsd/vcharthtml/VChartHTML.html) - An interactive chart of nuclides hosted by IAEA with search and filter based on various nuclear properties.
-
 
 
 ## Databases
@@ -79,4 +80,10 @@ A list of useful resources for nuclear physics.
  * [MultiInstanceDataAcquisitionSystem/MIDAS](http://npg.dl.ac.uk/MIDAS/) - Acquisition system used in many different labs.
 
 ## Laboratories
- * [ISOLDE/Miniball](https://twiki.cern.ch/twiki/bin/view/Miniball/WebHome)(Requires CERN user) - A wiki with various documentation for the Miniball setup at ISOLDE
+ * [ISOLDE/Miniball](https://twiki.cern.ch/twiki/bin/view/Miniball/WebHome)(Requires CERN user) - A wiki with various documentation for the Miniball setup at ISOLDE.
+
+# Books
+
+## Nuclear structure
+
+## Nuclear reactions
