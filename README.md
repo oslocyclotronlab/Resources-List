@@ -40,9 +40,10 @@ A list of useful resources for nuclear physics.
 
 ## Simulation
  * [Geant4](http://geant4.web.cern.ch) - A toolkit for the simulation of the passage of particles through matter.
+ * [LISE++](http://lise.nscl.msu.edu/lise.html) - Calculator for transmission and yields of beams. Also includes several useful calculators such as kimematics, fusion evaporation simulations, etc.
  * [Qkinz](https://github.com/oslocyclotronlab/Qkinz) - Kinematics calculator for the SiRi array at OCL.
+ * [SRIM](http://www.srim.org) - Software for calculating stopping power of ions in matter. The webpage are straight out of the 90's.
  * [TALYS](talys.eu) - Fortran package for running Hauser-Feshbach calculations.
- 
  
 
 ## Visualization
@@ -58,7 +59,7 @@ A list of useful resources for nuclear physics.
 # Websites
 
 ## Calculators
-
+ * [NRV](http://nrv.jinr.ru/nrv/) - Several useful tools such as reaction calculators, etc.
 
 ## Charts
 
@@ -72,6 +73,7 @@ A list of useful resources for nuclear physics.
  * [ENSDF](https://www.nndc.bnl.gov/ensdf/) - Evaluated Nuclear Structure Data File Search and Retrieval.
  * [EXFOR](https://www-nds.iaea.org/exfor/) - Experimental Nuclear Reaction Data.
  * [RIPL-3](https://www-nds.iaea.org/RIPL-3/) - A standard input parameter library.
+ * [STAR](https://physics.nist.gov/PhysRefData/Star/Text/intro.html) - Stopping power tables for alpha's, protons and electrons in various materials.
 
 ## DAQ documentation
  * [MultiInstanceDataAcquisitionSystem/MIDAS](http://npg.dl.ac.uk/MIDAS/) - Acquisition system used in many different labs.
