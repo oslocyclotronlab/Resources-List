@@ -25,6 +25,7 @@ A list of useful resources for nuclear physics.
 
 
 # Software
+List of useful software packages used in nuclear physics. 
 
 ## DAQ packages
  * [OCLDAQ](https://github.com/oslocyclotronlab/OCLDAQ) - DAQ software used at OCL.
@@ -59,6 +60,7 @@ A list of useful resources for nuclear physics.
 ## Various tools
 
 # Websites
+List of useful websites for nuclear physics.
 
 ## Calculators
  * [NRV](http://nrv.jinr.ru/nrv/) - Several useful tools such as reaction calculators, etc.
@@ -83,6 +85,7 @@ A list of useful resources for nuclear physics.
  * [ISOLDE/Miniball](https://twiki.cern.ch/twiki/bin/view/Miniball/WebHome)(Requires CERN user) - A wiki with various documentation for the Miniball setup at ISOLDE.
 
 # Books
+List of great books for nuclear physics
 
 ## Nuclear structure
 
