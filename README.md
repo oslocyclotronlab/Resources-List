@@ -41,6 +41,8 @@ List of useful software packages used in nuclear physics.
 ## Analysis
  * [OMpy](https://github.com/oslocyclotronlab/ompy) - A python package for performing the Oslo Method analysis.
  * [Oslo Method Software](https://github.com/oslocyclotronlab/oslo-method-software) - A set of programs to performing the Oslo Method analysis (old).
+ * [ROOT](https://root.cern) - De-facto standard tool for analyzing data in particle and nuclear physics.
+ * [Vaex](https://github.com/vaexio/vaex) - Out-of-core DataFrames for python. A very powerful package for analyzing gigantic amounts of data. Just as or faster than ROOT.
 
 ## Simulation
  * [Geant4](http://geant4.web.cern.ch) - A toolkit for the simulation of the passage of particles through matter.
@@ -48,14 +50,17 @@ List of useful software packages used in nuclear physics.
  * [Qkinz](https://github.com/oslocyclotronlab/Qkinz) - Kinematics calculator for the SiRi array at OCL.
  * [SRIM](http://www.srim.org) - Software for calculating stopping power of ions in matter. The webpage are straight out of the 90's.
  * [TALYS](talys.eu) - Fortran package for running Hauser-Feshbach calculations.
+
+ ## Statistical analysis
+ * [pyMC3](https://pymc.io) - Package for statistical programming in python. Very simple package for developing Bayesian models.
  
 
 ## Visualization
  * [Chart of nuclides drawer](https://github.com/kmiernik/Chart-of-nuclides-drawer) - Open source python program for making nuclear charts
- * [lvl_builder](http://peiluan-tai.com/programs/lvl_builder.html) - lvl_builder is a python script to build an energy level scheme that is normally used in the nuclear physics.
+ * [lvl_builder](http://peiluan-tai.com/programs/lvl_builder.html) or [GitHub](https://github.com/xination/lvl_builder) - lvl_builder is a python script to build an energy level scheme that is normally used in the nuclear physics.
  * [Matplotlib](matplotlib.org) - Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
  * [RadWare](https://radware.phy.ornl.gov) - RadWare is a software package for interactive graphical analysis of gamma-ray coincidence data.
- * [ROOT](https://root.cern) - A large package for nuclear and particle physics
+ * [ROOT](https://root.cern) - A large package for nuclear and particle physics.
 
 ## Various tools
 
