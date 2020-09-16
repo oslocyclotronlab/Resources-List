@@ -28,6 +28,7 @@ A list of useful resources for nuclear physics.
 List of useful software packages used in nuclear physics. 
 
 ## DAQ packages
+ * [Dolosse](https://dolosse.org)/[GitHub](https://github.com/dolosse/dolosse) - A modern DAQ packaged based on Apache Kafka. Currently under development (primarily) at iThemba LABS.
  * [OCLDAQ](https://github.com/oslocyclotronlab/OCLDAQ) - DAQ software used at OCL.
  * [MultiInstanceDataAcquisitionSystem/MIDAS](http://npg.dl.ac.uk/MIDAS/) - Acquisition system used in many different labs.
  * [MIDAS](https://midas.triumf.ca) - Acquisition system developed at PSI and TRIUMF.
@@ -63,6 +64,7 @@ List of useful software packages used in nuclear physics.
  * [ROOT](https://root.cern) - A large package for nuclear and particle physics.
 
 ## Various tools
+* [TALYS-launcher](https://github.com/ErlendLima/TALYS-Launcher) - Powerful tool for generating TALYS input files for studies of serveral nuclei.
 
 # Websites
 List of useful websites for nuclear physics.
@@ -78,7 +80,7 @@ List of useful websites for nuclear physics.
 
 ## Databases
  * [ENDF](https://www.nndc.bnl.gov/exfor/endf00.jsp) - Evaluated neutron reaction cross sections.
- * [ENSDF](https://www.nndc.bnl.gov/ensdf/) - Evaluated Nuclear Structure Data File Search and Retrieval.
+ * [ENSDF](https://www.nndc.bnl.gov/ensdf/) - Evaluated Nuclear Structure Data File Search and Retrieval. Also indexes un-evaluated data.
  * [EXFOR](https://www-nds.iaea.org/exfor/) - Experimental Nuclear Reaction Data.
  * [RIPL-3](https://www-nds.iaea.org/RIPL-3/) - A standard input parameter library.
  * [STAR](https://physics.nist.gov/PhysRefData/Star/Text/intro.html) - Stopping power tables for alpha's, protons and electrons in various materials.
@@ -87,7 +89,7 @@ List of useful websites for nuclear physics.
  * [MultiInstanceDataAcquisitionSystem/MIDAS](http://npg.dl.ac.uk/MIDAS/) - Acquisition system used in many different labs.
 
 ## Laboratories
- * [ISOLDE/Miniball](https://twiki.cern.ch/twiki/bin/view/Miniball/WebHome)(Requires CERN user) - A wiki with various documentation for the Miniball setup at ISOLDE.
+ * [ISOLDE/Miniball](https://twiki.cern.ch/twiki/bin/view/Miniball/WebHome)(Requires CERN username/password) - A wiki with various documentation for the Miniball setup at ISOLDE.
 
 # Books
 List of great books for nuclear physics
