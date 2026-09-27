@@ -72,6 +72,7 @@ List of useful websites for nuclear physics.
 ## Calculators
  * [NRV](http://nrv.jinr.ru/nrv/) - Several useful tools such as reaction calculators, etc.
  * [Catkin](http://personal.ph.surrey.ac.uk/~phs1wc/kinematics/) - Useful set of calculators such as kinematics, etc. implemented in excel.
+ * [NeutronRise Nuclear Tools](https://neutronrise.com/tools/) - Free, browser-based reactor-physics and health-physics calculators (xenon-135 transient, decay heat, point kinetics, gamma dose-rate & shielding), each benchmarked against published standards.
 
 ## Charts
 
